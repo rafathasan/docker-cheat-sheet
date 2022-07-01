@@ -1,7 +1,7 @@
 
   
 # :bread:Docker Cheat Sheet
-it contains my daily to daily essential commands that my brain isn't powerful enough to remember.
+it contains my day to day essential commands that sometimes my brain can't process.
 
 ## :bulb:Appendix
 - Deployment: commands for create, run & change the states of containers.
